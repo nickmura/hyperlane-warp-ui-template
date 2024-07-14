@@ -1,0 +1,6 @@
+scrollsepolia: {
+  type: native
+}
+sepolia: {
+  type: native
+}
